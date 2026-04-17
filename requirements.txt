@@ -1,0 +1,30 @@
+# Core RAG stack
+langchain
+langchain-huggingface
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langchain-core
+
+# Vector store
+chromadb
+
+# Embeddings & LLM
+huggingface_hub
+sentence-transformers
+
+# Document loaders
+pypdf
+docx2txt
+
+# Language detection
+langdetect
+
+# API
+fastapi
+uvicorn[standard]
+python-multipart      # required for FastAPI File uploads
+
+# Utilities
+python-dotenv
+streamlit

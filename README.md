@@ -221,4 +221,4 @@ Try it now: **[https://6kxhlb5wbfae7syfqqd6f5.streamlit.app/](https://6kxhlb5wbf
 
 ## 📄 License
 
-MIT
+ Apache-2.0 license
